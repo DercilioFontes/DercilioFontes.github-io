@@ -425,6 +425,7 @@ main.site-experience main.container section.job-name {
 
 main.site-experience main.container section.job-name header.company-name {
   font-weight: 800;
+  font-size: 18px;
 }
 
 main.site-experience main.container section.job-name main.job-role {
@@ -452,6 +453,7 @@ main.site-education main.container section.edu-name {
 
 main.site-education main.container section.edu-name header.edu-degree {
   font-weight: 800;
+  font-size: 18px;
 }
 
 main.site-education main.container section.edu-name main.fac-name {
