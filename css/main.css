@@ -557,7 +557,7 @@ main.site-projects main.container section.project img {
   border-radius: 1em;
 }
 
-main.site-projects main.container section.project img:hover {
+main.site-projects main.container section.project img:hover, video:hover{
   border: 2px #ba5624 solid;
 }
 
