@@ -60,7 +60,7 @@ nav.navbar {
 }
 
 .bg-dark {
-  background-color: #381d2a !important;
+  background-color: #2D3142 !important;
 }
 
 main.site-skills div.d-flex article img {
@@ -70,7 +70,7 @@ main.site-skills div.d-flex article img {
 
 html {
   box-sizing: border-box;
-  background-color: #dee8d3;
+  background-color: #EBEBEB;
 }
 
 *,
@@ -81,7 +81,11 @@ html {
 
 body {
   background: none;
-  color: #381d2a;
+  color: #4F5D75;
+}
+
+h1, h2, header  {
+  color: #2D3142;
 }
 
 div.home {
@@ -93,7 +97,7 @@ hr.red-line {
   border: 0;
   clear: both;
   height: 0.1em;
-  background: #ba5624;
+  background: #EF8354;
   display: block;
   border-radius: 0.25em;
 }
@@ -103,7 +107,7 @@ hr.section-divider {
   border: 0;
   clear: both;
   height: 0.7em;
-  background: #ba5624;
+  background: #EF8354;
   display: block;
   border-radius: 0.25em;
 }
@@ -413,7 +417,7 @@ main.site-about article.container div.row a.btn {
   display: inline-block;
   margin: 0 0.5em 0.5em 0;
   padding: 0.3em;
-  background-color: #ba5624;
+  background-color: #EF8354;
   color: white;
 }
 
@@ -547,7 +551,7 @@ main.site-projects main.container section.project a.btn {
   font-family: "Lato", sans-serif;
   display: inline-block;
   margin: 0.8em 0.5em 0 0;
-  background-color: #ba5624;
+  background-color: #EF8354;
   color: white;
 }
 
